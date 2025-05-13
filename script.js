@@ -47,7 +47,7 @@ function loadCalendly() {
   const calendlyEl = document.querySelector(".calendly-inline-widget");
   if (calendlyEl && typeof Calendly !== "undefined") {
     Calendly.initInlineWidget({
-      url: "https://calendly.com/phuonglqts2203032-fpt?hide_gdpr_banner=1",
+      url: "https://calendly.com/anyenspa?hide_gdpr_banner=1",
       parentElement: calendlyEl,
       prefill: {},
       utm: {}

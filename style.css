@@ -9,21 +9,17 @@
     font-weight: 500;
 }
 .nav-link{
-    font-size: 18px !important;
+    font-size: 1rem !important;
     margin-right: 1vw;
 }
 
 .nav-link.active{
   font-weight: bold;
   color: #006747 !important;
-  border-bottom: 2px solid #006747;
+  border-bottom: 0.2rem solid #006747;
 
 }
 
-/*Content*/
-#content {
-    min-height: 60.2vh;
-}
 
 /*Footer*/
 .footer-custom {
@@ -33,9 +29,9 @@
 
 .contact_form {
     background-color: #b1caa0;
-    font-size: 13px;
+    font-size: 0.9rem;
     border-right: none !important;
-    border: 2px solid white !important;
+    border: 0.1rem solid white !important;
     width: 19vw !important;
     height: 5vh;
     padding-left: 1vw;
@@ -46,7 +42,7 @@
 }
 
 #btn_register {
-    font-size: 14px;
+    font-size: 0.9rem;
     font-weight: none !important;
     background-color: white;
     height: 5vh;
@@ -56,7 +52,7 @@
 
 .content-head {
     font-family: 'Chivo', sans-serif;
-    font-size: 18px;
+    font-size: 1.3rem;
     margin-bottom: 2vh;
     color: #006747;
     font-weight: bold;
@@ -90,12 +86,12 @@
 }
 
 .btn_fixed {
-    font-size: 20px !important;
+    font-size: 1.2rem !important;
     position: fixed;
-    right: 20px;
+    right: 1.4rem;
     width: 2.3%;
     height: 4.5vh;
-    padding: 5px 0 !important;
-    border-radius: 50px;
+    padding: 0 !important;
+    border-radius: 3.2rem;
     background-color: #006747 !important;
 }

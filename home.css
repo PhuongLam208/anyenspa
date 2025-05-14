@@ -24,7 +24,7 @@
 .popular_btn {
     text-decoration: none;
     text-align: center;
-    width: 11vw;
+    width: 9vw;
     font-size: 19px;
     height: 5vh;
     background-color: #006747;
@@ -76,6 +76,7 @@
 
 /* Hiển thị thông tin nằm trên ảnh */
 .info-box {
+    width: 220px;
     color: black;
     text-decoration: none;
     position: absolute;
@@ -138,6 +139,5 @@ ul li::before {
 }
 
 .info-context {
-
-    font-size: 26px;
+    font-size: 20px;
 }

@@ -1,6 +1,5 @@
 .popular_service {
     padding: 0 10vw;
-    margin-bottom: 5vh;
 }
 
 .row {
@@ -24,7 +23,7 @@
 .popular_btn {
     text-decoration: none;
     text-align: center;
-    width: 9vw;
+    width: 11vw;
     font-size: 19px;
     height: 5vh;
     background-color: #006747;
